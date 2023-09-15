@@ -451,6 +451,16 @@ describe("Test renderStatsCard", () => {
     ).toBe(stats.rank.percentile.toFixed(1) + "%");
   });
 
+  it("should show the rank progress", () => {
+    document.body.innerHTML = renderStatsCard(stats, {
+      rank_icon: "progress",
+    });
+    expect(queryByTestId(document.body, "rank-progress-text")).toBeDefined();
+    expect(
+      queryByTestId(document.body, "progress-rank-icon").textContent.trim(),
+    ).toBe((100 - stats.rank.percentile).toFixed(1) + "%");
+  });
+
   it("should throw error if all stats and rank icon are hidden", () => {
     expect(() =>
       renderStatsCard(stats, {
