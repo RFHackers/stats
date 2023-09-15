@@ -495,6 +495,20 @@ export const themes = {
     border_color: "ee99a0",
     bg_color: "1e1e2e",
   },
+  "lava-light": {
+    title_color: "d81613",
+    text_color: "786a1c",
+    icon_color: "d81613",
+    border_color: "933547",
+    bg_color: "fffff0",
+  },
+  "lava-dark": {
+    title_color: "ee403e",
+    text_color: "fed078",
+    icon_color: "ee403e",
+    border_color: "933547",
+    bg_color: "090b0c",
+  },
 };
 
 export default themes;
