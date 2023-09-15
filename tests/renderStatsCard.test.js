@@ -461,6 +461,13 @@ describe("Test renderStatsCard", () => {
     ).toBe((100 - stats.rank.percentile).toFixed(1) + "%");
   });
 
+  it("should render fire rank icon", () => {
+    document.body.innerHTML = renderStatsCard(stats, {
+      rank_icon: "fire",
+    });
+    expect(queryByTestId(document.body, "fire-rank-icon")).toBeDefined();
+  });
+
   it("should throw error if all stats and rank icon are hidden", () => {
     expect(() =>
       renderStatsCard(stats, {
