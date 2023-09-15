@@ -530,6 +530,20 @@ export const themes = {
     border_color: "AE58A1",
     bg_color: "35,4158D0,C850C0,FFCC70",
   },
+  javascript: {
+    title_color: "000000",
+    text_color: "000000",
+    icon_color: "000000",
+    border_color: "000000",
+    bg_color: "F7DF1E",
+  },
+  "javascript-dark": {
+    title_color: "F7DF1E",
+    text_color: "F7DF1E",
+    icon_color: "FFFFFF",
+    border_color: "F7DF1E",
+    bg_color: "000000",
+  },
 };
 
 export default themes;
