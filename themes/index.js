@@ -481,7 +481,7 @@ export const themes = {
     bg_color: "ffffff",
   },
   "whatsapp-dark": {
-    title_color: "00A884",
+    title_color: "E3E7EA",
     text_color: "888D90",
     icon_color: "00A884",
     border_color: "1B2832",
