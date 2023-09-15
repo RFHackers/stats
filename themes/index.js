@@ -483,9 +483,9 @@ export const themes = {
   "whatsapp-dark": {
     title_color: "E3E7EA",
     text_color: "888D90",
-    icon_color: "273741",
+    icon_color: "00A884",
     border_color: "1B2832",
-    ring_color: "273741",
+    ring_color: "39505E",
     bg_color: "121b22",
   },
   catppuccin_mocha: {
