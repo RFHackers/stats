@@ -544,6 +544,24 @@ export const themes = {
     border_color: "F7DF1E",
     bg_color: "000000",
   },
+  darkes_cadillac: {
+    title_color: "e12d99",
+    text_color: "ffffff",
+    icon_color: "e0b4bc",
+    bg_color: "090b0c",
+  },
+  darkes_mercury: {
+    title_color: "747c7c",
+    text_color: "ffffff",
+    icon_color: "839aa7",
+    bg_color: "090b0c",
+  },
+  darkes_sun: {
+    title_color: "f55119",
+    text_color: "ffffff",
+    icon_color: "fca311",
+    bg_color: "090b0c",
+  },
 };
 
 export default themes;

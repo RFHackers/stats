@@ -44,7 +44,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `whatsapp-light` ![whatsapp-light][whatsapp-light] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark] | `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha] |
 | `lava-light` ![lava-light][lava-light] | `lava-dark` ![lava-dark][lava-dark] | `sunset-gradient` ![sunset-gradient][sunset-gradient] |
 | `ocean-gradient` ![ocean-gradient][ocean-gradient] | `ambient-gradient` ![ambient-gradient][ambient-gradient] | `javascript` ![javascript][javascript] |
-| `javascript-dark` ![javascript-dark][javascript-dark] | [Add your theme][add-theme] |
+| `javascript-dark` ![javascript-dark][javascript-dark] | `darkes_cadillac` ![darkes_cadillac][darkes_cadillac] | `darkes_mercury` ![darkes_mercury][darkes_mercury] |
+| `darkes_sun` ![darkes_sun][darkes_sun] | [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -80,7 +81,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `whatsapp-light` ![whatsapp-light][whatsapp-light_repo] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark_repo] | `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha_repo] |
 | `lava-light` ![lava-light][lava-light_repo] | `lava-dark` ![lava-dark][lava-dark_repo] | `sunset-gradient` ![sunset-gradient][sunset-gradient_repo] |
 | `ocean-gradient` ![ocean-gradient][ocean-gradient_repo] | `ambient-gradient` ![ambient-gradient][ambient-gradient_repo] | `javascript` ![javascript][javascript_repo] |
-| `javascript-dark` ![javascript-dark][javascript-dark_repo] | [Add your theme][add-theme] |
+| `javascript-dark` ![javascript-dark][javascript-dark_repo] | `darkes_cadillac` ![darkes_cadillac][darkes_cadillac_repo] | `darkes_mercury` ![darkes_mercury][darkes_mercury_repo] |
+| `darkes_sun` ![darkes_sun][darkes_sun_repo] | [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -169,6 +171,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [ambient-gradient]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient-gradient
 [javascript]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=javascript
 [javascript-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=javascript-dark
+[darkes_cadillac]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darkes_cadillac
+[darkes_mercury]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darkes_mercury
+[darkes_sun]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darkes_sun
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -257,6 +262,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [ambient-gradient_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient-gradient
 [javascript_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=javascript
 [javascript-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=javascript-dark
+[darkes_cadillac_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=darkes_cadillac
+[darkes_mercury_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=darkes_mercury
+[darkes_sun_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=darkes_sun
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
