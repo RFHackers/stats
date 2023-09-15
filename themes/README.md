@@ -41,11 +41,11 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `rose` ![rose][rose] | `holi` ![holi][holi] | `neon` ![neon][neon] |
 | `blue_navy` ![blue_navy][blue_navy] | `calm_pink` ![calm_pink][calm_pink] | `humoris` ![humoris][humoris] |
 | `shadow_orange` ![shadow_orange][shadow_orange] | `shadow_purple` ![shadow_purple][shadow_purple] | `shadow_brown` ![shadow_brown][shadow_brown] |
-| `whatsapp-light` ![whatsapp-light][whatsapp-light] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark] | `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha] |
-| `lava-light` ![lava-light][lava-light] | `lava-dark` ![lava-dark][lava-dark] | `sunset-gradient` ![sunset-gradient][sunset-gradient] |
-| `ocean-gradient` ![ocean-gradient][ocean-gradient] | `ambient-gradient` ![ambient-gradient][ambient-gradient] | `javascript` ![javascript][javascript] |
-| `javascript-dark` ![javascript-dark][javascript-dark] | `darkes_cadillac` ![darkes_cadillac][darkes_cadillac] | `darkes_mercury` ![darkes_mercury][darkes_mercury] |
-| `darkes_sun` ![darkes_sun][darkes_sun] | [Add your theme][add-theme] |
+| `whatsapp-light` ![whatsapp-light][whatsapp-light] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark] | `catppuccin_latte` ![catppuccin_latte][catppuccin_latte] |
+| `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha] | `lava-light` ![lava-light][lava-light] | `lava-dark` ![lava-dark][lava-dark] |
+| `sunset-gradient` ![sunset-gradient][sunset-gradient] | `ocean-gradient` ![ocean-gradient][ocean-gradient] | `ambient-gradient` ![ambient-gradient][ambient-gradient] |
+| `javascript` ![javascript][javascript] | `javascript-dark` ![javascript-dark][javascript-dark] | `darkes_cadillac` ![darkes_cadillac][darkes_cadillac] |
+| `darkes_mercury` ![darkes_mercury][darkes_mercury] | `darkes_sun` ![darkes_sun][darkes_sun] | [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -78,11 +78,11 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `rose` ![rose][rose_repo] | `holi` ![holi][holi_repo] | `neon` ![neon][neon_repo] |
 | `blue_navy` ![blue_navy][blue_navy_repo] | `calm_pink` ![calm_pink][calm_pink_repo] | `humoris` ![humoris][humoris_repo] |
 | `shadow_orange` ![shadow_orange][shadow_orange_repo] | `shadow_purple` ![shadow_purple][shadow_purple_repo] | `shadow_brown` ![shadow_brown][shadow_brown_repo] |
-| `whatsapp-light` ![whatsapp-light][whatsapp-light_repo] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark_repo] | `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha_repo] |
-| `lava-light` ![lava-light][lava-light_repo] | `lava-dark` ![lava-dark][lava-dark_repo] | `sunset-gradient` ![sunset-gradient][sunset-gradient_repo] |
-| `ocean-gradient` ![ocean-gradient][ocean-gradient_repo] | `ambient-gradient` ![ambient-gradient][ambient-gradient_repo] | `javascript` ![javascript][javascript_repo] |
-| `javascript-dark` ![javascript-dark][javascript-dark_repo] | `darkes_cadillac` ![darkes_cadillac][darkes_cadillac_repo] | `darkes_mercury` ![darkes_mercury][darkes_mercury_repo] |
-| `darkes_sun` ![darkes_sun][darkes_sun_repo] | [Add your theme][add-theme] |
+| `whatsapp-light` ![whatsapp-light][whatsapp-light_repo] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark_repo] | `catppuccin_latte` ![catppuccin_latte][catppuccin_latte_repo] |
+| `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha_repo] | `lava-light` ![lava-light][lava-light_repo] | `lava-dark` ![lava-dark][lava-dark_repo] |
+| `sunset-gradient` ![sunset-gradient][sunset-gradient_repo] | `ocean-gradient` ![ocean-gradient][ocean-gradient_repo] | `ambient-gradient` ![ambient-gradient][ambient-gradient_repo] |
+| `javascript` ![javascript][javascript_repo] | `javascript-dark` ![javascript-dark][javascript-dark_repo] | `darkes_cadillac` ![darkes_cadillac][darkes_cadillac_repo] |
+| `darkes_mercury` ![darkes_mercury][darkes_mercury_repo] | `darkes_sun` ![darkes_sun][darkes_sun_repo] | [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -163,6 +163,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [shadow_brown]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_brown
 [whatsapp-light]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=whatsapp-light
 [whatsapp-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=whatsapp-dark
+[catppuccin_latte]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_latte
 [catppuccin_mocha]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_mocha
 [lava-light]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=lava-light
 [lava-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=lava-dark
@@ -254,6 +255,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [shadow_brown_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_brown
 [whatsapp-light_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=whatsapp-light
 [whatsapp-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=whatsapp-dark
+[catppuccin_latte_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=catppuccin_latte
 [catppuccin_mocha_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=catppuccin_mocha
 [lava-light_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=lava-light
 [lava-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=lava-dark

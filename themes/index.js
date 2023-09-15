@@ -488,11 +488,16 @@ export const themes = {
     ring_color: "39505E",
     bg_color: "121b22",
   },
+  catppuccin_latte: {
+    title_color: "137980",
+    icon_color: "8839ef",
+    text_color: "4c4f69",
+    bg_color: "eff1f5",
+  },
   catppuccin_mocha: {
-    title_color: "cad3f5",
-    text_color: "b8c0e0",
-    icon_color: "ed8796",
-    border_color: "ee99a0",
+    title_color: "94e2d5",
+    icon_color: "cba6f7",
+    text_color: "cdd6f4",
     bg_color: "1e1e2e",
   },
   "lava-light": {
