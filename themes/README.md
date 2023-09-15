@@ -40,6 +40,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `rose_pine` ![rose_pine][rose_pine] | `date_night` ![date_night][date_night] | `one_dark_pro` ![one_dark_pro][one_dark_pro] |
 | `rose` ![rose][rose] | `holi` ![holi][holi] | `neon` ![neon][neon] |
 | `blue_navy` ![blue_navy][blue_navy] | `calm_pink` ![calm_pink][calm_pink] | `humoris` ![humoris][humoris] |
+| `shadow_orange` ![shadow_orange][shadow_orange] | `shadow_purple` ![shadow_purple][shadow_purple] | `shadow_brown` ![shadow_brown][shadow_brown] |
 | [Add your theme][add-theme] |
 
 ## Repo Card
@@ -72,6 +73,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `rose_pine` ![rose_pine][rose_pine_repo] | `date_night` ![date_night][date_night_repo] | `one_dark_pro` ![one_dark_pro][one_dark_pro_repo] |
 | `rose` ![rose][rose_repo] | `holi` ![holi][holi_repo] | `neon` ![neon][neon_repo] |
 | `blue_navy` ![blue_navy][blue_navy_repo] | `calm_pink` ![calm_pink][calm_pink_repo] | `humoris` ![humoris][humoris_repo] |
+| `shadow_orange` ![shadow_orange][shadow_orange_repo] | `shadow_purple` ![shadow_purple][shadow_purple_repo] | `shadow_brown` ![shadow_brown][shadow_brown_repo] |
 | [Add your theme][add-theme] |
 
 
@@ -147,7 +149,10 @@ Use `?theme=THEME_NAME` parameter like so :-
 [neon]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon
 [blue_navy]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy
 [calm_pink]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm_pink
-[humoris]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=humoris
+[humoris]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=humoris
+[shadow_orange]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_orange
+[shadow_purple]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_purple
+[shadow_brown]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_brown
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -223,6 +228,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [blue_navy_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue_navy
 [calm_pink_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=calm_pink
 [humoris_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=humoris
+[shadow_orange_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_orange
+[shadow_purple_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_purple
+[shadow_brown_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_brown
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
