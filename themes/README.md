@@ -42,7 +42,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `blue_navy` ![blue_navy][blue_navy] | `calm_pink` ![calm_pink][calm_pink] | `humoris` ![humoris][humoris] |
 | `shadow_orange` ![shadow_orange][shadow_orange] | `shadow_purple` ![shadow_purple][shadow_purple] | `shadow_brown` ![shadow_brown][shadow_brown] |
 | `whatsapp-light` ![whatsapp-light][whatsapp-light] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark] | `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha] |
-| `lava-light` ![lava-light][lava-light] | `lava-dark` ![lava-dark][lava-dark] | [Add your theme][add-theme] |
+| `lava-light` ![lava-light][lava-light] | `lava-dark` ![lava-dark][lava-dark] | `sunset-gradient` ![sunset-gradient][sunset-gradient] |
+| `ocean-gradient` ![ocean-gradient][ocean-gradient] | `ambient-gradient` ![ambient-gradient][ambient-gradient] | [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -76,7 +77,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `blue_navy` ![blue_navy][blue_navy_repo] | `calm_pink` ![calm_pink][calm_pink_repo] | `humoris` ![humoris][humoris_repo] |
 | `shadow_orange` ![shadow_orange][shadow_orange_repo] | `shadow_purple` ![shadow_purple][shadow_purple_repo] | `shadow_brown` ![shadow_brown][shadow_brown_repo] |
 | `whatsapp-light` ![whatsapp-light][whatsapp-light_repo] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark_repo] | `catppuccin_mocha` ![catppuccin_mocha][catppuccin_mocha_repo] |
-| `lava-light` ![lava-light][lava-light_repo] | `lava-dark` ![lava-dark][lava-dark_repo] | [Add your theme][add-theme] |
+| `lava-light` ![lava-light][lava-light_repo] | `lava-dark` ![lava-dark][lava-dark_repo] | `sunset-gradient` ![sunset-gradient][sunset-gradient_repo] |
+| `ocean-gradient` ![ocean-gradient][ocean-gradient_repo] | `ambient-gradient` ![ambient-gradient][ambient-gradient_repo] | [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -160,6 +162,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [catppuccin_mocha]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_mocha
 [lava-light]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=lava-light
 [lava-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=lava-dark
+[sunset-gradient]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=sunset-gradient
+[ocean-gradient]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ocean-gradient
+[ambient-gradient]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient-gradient
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -243,6 +248,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [catppuccin_mocha_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=catppuccin_mocha
 [lava-light_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=lava-light
 [lava-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=lava-dark
+[sunset-gradient_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=sunset-gradient
+[ocean-gradient_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ocean-gradient
+[ambient-gradient_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient-gradient
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
