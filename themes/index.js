@@ -488,6 +488,13 @@ export const themes = {
     ring_color: "273741",
     bg_color: "121b22",
   },
+  catppuccin_mocha: {
+    title_color: "cad3f5",
+    text_color: "b8c0e0",
+    icon_color: "ed8796",
+    border_color: "ee99a0",
+    bg_color: "1e1e2e",
+  },
 };
 
 export default themes;

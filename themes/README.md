@@ -41,7 +41,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `rose` ![rose][rose] | `holi` ![holi][holi] | `neon` ![neon][neon] |
 | `blue_navy` ![blue_navy][blue_navy] | `calm_pink` ![calm_pink][calm_pink] | `humoris` ![humoris][humoris] |
 | `shadow_orange` ![shadow_orange][shadow_orange] | `shadow_purple` ![shadow_purple][shadow_purple] | `shadow_brown` ![shadow_brown][shadow_brown] |
-| `whatsapp-light` ![whatsapp-light][whatsapp-light] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark] | [Add your theme][add-theme] |
+| `whatsapp-light` ![whatsapp-light][whatsapp-light] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark] | `catpuccin_mocha` ![catpuccin_mocha][catpuccin_mocha] |
+| [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -74,7 +75,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `rose` ![rose][rose_repo] | `holi` ![holi][holi_repo] | `neon` ![neon][neon_repo] |
 | `blue_navy` ![blue_navy][blue_navy_repo] | `calm_pink` ![calm_pink][calm_pink_repo] | `humoris` ![humoris][humoris_repo] |
 | `shadow_orange` ![shadow_orange][shadow_orange_repo] | `shadow_purple` ![shadow_purple][shadow_purple_repo] | `shadow_brown` ![shadow_brown][shadow_brown_repo] |
-| `whatsapp-light` ![whatsapp-light][whatsapp-light_repo] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark_repo] | [Add your theme][add-theme] |
+| `whatsapp-light` ![whatsapp-light][whatsapp-light_repo] | `whatsapp-dark` ![whatsapp-dark][whatsapp-dark_repo] | `catpuccin_mocha` ![catpuccin_mocha][catpuccin_mocha_repo] |
+| [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -155,6 +157,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [shadow_brown]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_brown
 [whatsapp-light]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=whatsapp-light
 [whatsapp-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=whatsapp-dark
+[catpuccin_mocha]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catpuccin_mocha
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -235,6 +238,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [shadow_brown_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shadow_brown
 [whatsapp-light_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=whatsapp-light
 [whatsapp-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=whatsapp-dark
+[catpuccin_mocha_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=catpuccin_mocha
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
