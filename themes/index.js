@@ -519,7 +519,7 @@ export const themes = {
   "ocean-gradient": {
     title_color: "FFFFFF",
     text_color: "FFFFFF",
-    icon_color: "FFFFFF",
+    icon_color: "FB8C00",
     border_color: "000155",
     bg_color: "90,0093EA,80D0C8,80D0C8",
   },
