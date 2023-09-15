@@ -468,6 +468,13 @@ describe("Test renderStatsCard", () => {
     expect(queryByTestId(document.body, "fire-rank-icon")).toBeDefined();
   });
 
+  it("should render trophy rank icon", () => {
+    document.body.innerHTML = renderStatsCard(stats, {
+      rank_icon: "trophy",
+    });
+    expect(queryByTestId(document.body, "trophy-rank-icon")).toBeDefined();
+  });
+
   it("should throw error if all stats and rank icon are hidden", () => {
     expect(() =>
       renderStatsCard(stats, {
