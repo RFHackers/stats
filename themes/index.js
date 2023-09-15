@@ -472,6 +472,22 @@ export const themes = {
     border_color: "31312D",
     bg_color: "ffffff00",
   },
+  "whatsapp-light": {
+    title_color: "121B22",
+    text_color: "73828A",
+    icon_color: "16D351",
+    border_color: "E4E2E2",
+    ring_color: "008069",
+    bg_color: "ffffff",
+  },
+  "whatsapp-dark": {
+    title_color: "00A884",
+    text_color: "888D90",
+    icon_color: "00A884",
+    border_color: "1B2832",
+    ring_color: "273741",
+    bg_color: "121b22",
+  },
 };
 
 export default themes;
