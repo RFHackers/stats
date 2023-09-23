@@ -529,7 +529,7 @@ export const themes = {
   "sunset-gradient": {
     title_color: "FFFFFF",
     text_color: "FFFFFF",
-    icon_color: "FB8C00",
+    icon_color: "FAFF25",
     border_color: "850000",
     bg_color: "45,8A2386,E94056,F27120",
   },
