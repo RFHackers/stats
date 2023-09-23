@@ -635,6 +635,27 @@ export const themes = {
     border_color: "33374C",
     bg_color: "1E2132",
   },
+  garden: {
+    title_color: "D2DD3B",
+    text_color: "6FDD6C",
+    icon_color: "DDD4A8",
+    border_color: "000000",
+    bg_color: "094A4A",
+  },
+  "java-dark": {
+    title_color: "F89820",
+    text_color: "5382A1",
+    icon_color: "F89820",
+    border_color: "F89820",
+    bg_color: "000000",
+  },
+  "python-dark": {
+    title_color: "4B8BBE",
+    text_color: "FFD43B",
+    icon_color: "4B8BBE",
+    border_color: "4B8BBE",
+    bg_color: "000000",
+  },
 };
 
 export default themes;

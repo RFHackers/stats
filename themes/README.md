@@ -49,6 +49,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `darkes_sun` ![darkes_sun][darkes_sun] | `carbonfox` ![carbonfox][carbonfox] | `dawnfox` ![dawnfox][dawnfox] |
 | `dayfox` ![dayfox][dayfox] | `duskfox` ![duskfox][duskfox] | `nightfox` ![nightfox][nightfox] |
 | `nordfox` ![nordfox][nordfox] | `terafox` ![terafox][terafox] | `iceberg` ![iceberg][iceberg] |
+| `garden` ![garden][garden] | `java-dark` ![java-dark][java-dark] | `python-dark` ![python-dark][python-dark] |
 | [Add your theme][add-theme] |
 
 ## Repo Card
@@ -90,6 +91,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `darkes_sun` ![darkes_sun][darkes_sun_repo] | `carbonfox` ![carbonfox][carbonfox_repo] | `dawnfox` ![dawnfox][dawnfox_repo] |
 | `dayfox` ![dayfox][dayfox_repo] | `duskfox` ![duskfox][duskfox_repo] | `nightfox` ![nightfox][nightfox_repo] |
 | `nordfox` ![nordfox][nordfox_repo] | `terafox` ![terafox][terafox_repo] | `iceberg` ![iceberg][iceberg_repo] |
+| `garden` ![garden][garden_repo] | `java-dark` ![java-dark][java-dark_repo] | `python-dark` ![python-dark][python-dark_repo] |
 | [Add your theme][add-theme] |
 
 
@@ -193,6 +195,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [nordfox]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nordfox
 [terafox]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=terafox
 [iceberg]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=iceberg
+[garden]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=garden
+[java-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=java-dark
+[python-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=python-dark
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -295,6 +300,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [nordfox_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=nordfox
 [terafox_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=terafox
 [iceberg_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=iceberg
+[garden_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=garden
+[java-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=java-dark
+[python-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=python-dark
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
