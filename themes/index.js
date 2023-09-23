@@ -730,6 +730,13 @@ export const themes = {
     border_color: "fbf8ef",
     bg_color: "efeae9",
   },
+  brown_mountain: {
+    title_color: "fff0be",
+    text_color: "9e8279",
+    icon_color: "9ea5ae",
+    border_color: "302b18",
+    bg_color: "10100f",
+  },
 };
 
 export default themes;

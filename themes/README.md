@@ -53,7 +53,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `neon-palenight` ![neon-palenight][neon-palenight] | `neon-bluerange` ![neon-bluerange][neon-bluerange] | `red_minimal` ![red_minimal][red_minimal] |
 | `alyan` ![alyan][alyan] | `moonlight` ![moonlight][moonlight] | `lamya` ![lamya][lamya] |
 | `purple-gradient` ![purple-gradient][purple-gradient] | `aubergine` ![aubergine][aubergine] | `sin_city` ![sin_city][sin_city] |
-| `space` ![space][space] | `space_light` ![space_light][space_light] | [Add your theme][add-theme] |
+| `space` ![space][space] | `space_light` ![space_light][space_light] | `brown_mountain` ![brown_mountain][brown_mountain] |
+| [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -98,7 +99,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `neon-palenight` ![neon-palenight][neon-palenight_repo] | `neon-bluerange` ![neon-bluerange][neon-bluerange_repo] | `red_minimal` ![red_minimal][red_minimal_repo] |
 | `alyan` ![alyan][alyan_repo] | `moonlight` ![moonlight][moonlight_repo] | `lamya` ![lamya][lamya_repo] |
 | `purple-gradient` ![purple-gradient][purple-gradient_repo] | `aubergine` ![aubergine][aubergine_repo] | `sin_city` ![sin_city][sin_city_repo] |
-| `space` ![space][space_repo] | `space_light` ![space_light][space_light_repo] | [Add your theme][add-theme] |
+| `space` ![space][space_repo] | `space_light` ![space_light][space_light_repo] | `brown_mountain` ![brown_mountain][brown_mountain_repo] |
+| [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -215,6 +217,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [sin_city]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=sin_city
 [space]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=space
 [space_light]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=space_light
+[brown_mountain]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=brown_mountain
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -331,6 +334,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [sin_city_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=sin_city
 [space_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=space
 [space_light_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=space_light
+[brown_mountain_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=brown_mountain
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
