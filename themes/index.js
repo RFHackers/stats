@@ -696,6 +696,12 @@ export const themes = {
     text_color: "d3d3d3",
     bg_color: "0d0827",
   },
+  "purple-gradient": {
+    title_color: "EC7F8F",
+    icon_color: "EFFA4B",
+    text_color: "5CDD8F",
+    bg_color: "50,4A1133,0B1133",
+  },
 };
 
 export default themes;
