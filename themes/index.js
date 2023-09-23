@@ -684,6 +684,12 @@ export const themes = {
     border_color: "303030",
     bg_color: "111111",
   },
+  moonlight: {
+    title_color: "ecbd7c",
+    icon_color: "c69f68",
+    text_color: "c0cedd",
+    bg_color: "191f28",
+  },
 };
 
 export default themes;
