@@ -474,6 +474,17 @@ describe("Test renderStatsCard", () => {
     });
     expect(queryByTestId(document.body, "trophy-rank-icon")).toBeDefined();
   });
+  
+  it("should render battery rank icon", () => {
+    document.body.innerHTML = renderStatsCard(stats, {
+      rank_icon: "battery",
+    });
+    expect(queryByTestId(document.body, "battery-rank-icon")).toBeDefined();
+    expect(queryByTestId(document.body, "rank-battery-text")).toBeDefined();
+    expect(
+      queryByTestId(document.body, "battery-rank-text").textContent.trim(),
+    ).toBe((100 - stats.rank.percentile).toFixed(1) + "%");
+  });
 
   it("should throw error if all stats and rank icon are hidden", () => {
     expect(() =>
