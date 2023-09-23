@@ -716,6 +716,20 @@ export const themes = {
     border_color: "ff512f",
     bg_color: "45,ed213a,93291e",
   },
+  space: {
+    title_color: "4f97d7",
+    text_color: "ffc8c8",
+    icon_color: "9f8766",
+    border_color: "292b2e",
+    bg_color: "212026",
+  },
+  space_light: {
+    title_color: "3a81c3",
+    text_color: "655370",
+    icon_color: "da8b55",
+    border_color: "fbf8ef",
+    bg_color: "efeae9",
+  },
 };
 
 export default themes;
