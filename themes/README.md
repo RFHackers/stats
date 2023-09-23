@@ -51,7 +51,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `nordfox` ![nordfox][nordfox] | `terafox` ![terafox][terafox] | `iceberg` ![iceberg][iceberg] |
 | `garden` ![garden][garden] | `java-dark` ![java-dark][java-dark] | `python-dark` ![python-dark][python-dark] |
 | `neon-palenight` ![neon-palenight][neon-palenight] | `neon-bluerange` ![neon-bluerange][neon-bluerange] | `red_minimal` ![red_minimal][red_minimal] |
-| `alyan` ![alyan][alyan_repo] | `moonlight` ![moonlight][moonlight_repo] | [Add your theme][add-theme] |
+| `alyan` ![alyan][alyan] | `moonlight` ![moonlight][moonlight] | `lamya` ![lamya][lamya] |
+| [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -94,7 +95,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `nordfox` ![nordfox][nordfox_repo] | `terafox` ![terafox][terafox_repo] | `iceberg` ![iceberg][iceberg_repo] |
 | `garden` ![garden][garden_repo] | `java-dark` ![java-dark][java-dark_repo] | `python-dark` ![python-dark][python-dark_repo] |
 | `neon-palenight` ![neon-palenight][neon-palenight_repo] | `neon-bluerange` ![neon-bluerange][neon-bluerange_repo] | `red_minimal` ![red_minimal][red_minimal_repo] |
-| `alyan` ![alyan][alyan_repo] | `moonlight` ![moonlight][moonlight_repo] | [Add your theme][add-theme] |
+| `alyan` ![alyan][alyan_repo] | `moonlight` ![moonlight][moonlight_repo] | `lamya` ![lamya][lamya_repo] |
+| [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -202,8 +204,9 @@ Use `?theme=THEME_NAME` parameter like so :-
 [python-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=python-dark
 [neon-palenight]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon-palenight
 [neon-bluerange]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon-bluerange
+[red_minimal]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=red_minimal
 [alyan]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=alyan
-[moonlight]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moonlight
+[lamya]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=lamya
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -314,6 +317,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 [red_minimal_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=red_minimal
 [alyan_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=alyan
 [moonlight_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=moonlight
+[lamya_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=lamya
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
