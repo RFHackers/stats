@@ -50,7 +50,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `dayfox` ![dayfox][dayfox] | `duskfox` ![duskfox][duskfox] | `nightfox` ![nightfox][nightfox] |
 | `nordfox` ![nordfox][nordfox] | `terafox` ![terafox][terafox] | `iceberg` ![iceberg][iceberg] |
 | `garden` ![garden][garden] | `java-dark` ![java-dark][java-dark] | `python-dark` ![python-dark][python-dark] |
-| [Add your theme][add-theme] |
+| `neon-palenight` ![neon-palenight][neon-palenight] | `neon-bluerange` ![neon-bluerange][neon-bluerange] | [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -92,7 +92,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `dayfox` ![dayfox][dayfox_repo] | `duskfox` ![duskfox][duskfox_repo] | `nightfox` ![nightfox][nightfox_repo] |
 | `nordfox` ![nordfox][nordfox_repo] | `terafox` ![terafox][terafox_repo] | `iceberg` ![iceberg][iceberg_repo] |
 | `garden` ![garden][garden_repo] | `java-dark` ![java-dark][java-dark_repo] | `python-dark` ![python-dark][python-dark_repo] |
-| [Add your theme][add-theme] |
+| `neon-palenight` ![neon-palenight][neon-palenight_repo] | `neon-bluerange` ![neon-bluerange][neon-bluerange_repo] | [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -198,6 +198,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [garden]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=garden
 [java-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=java-dark
 [python-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=python-dark
+[neon-palenight]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon-palenight
+[neon-bluerange]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon-bluerange
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -303,6 +305,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [garden_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=garden
 [java-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=java-dark
 [python-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=python-dark
+[neon-palenight_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=neon-palenight
+[neon-bluerange_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=neon-bluerange
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
