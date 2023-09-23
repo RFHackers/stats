@@ -737,6 +737,20 @@ export const themes = {
     border_color: "302b18",
     bg_color: "10100f",
   },
+  modernize: {
+    title_color: "5d87ff",
+    text_color: "495057",
+    icon_color: "0fb294",
+    border_color: "ebf1f6",
+    bg_color: "ffffff",
+  },
+  "modernize-dark": {
+    title_color: "9eb7ff",
+    text_color: "F6F9FC",
+    icon_color: "71ebd5",
+    border_color: "495057",
+    bg_color: "212529",
+  },
 };
 
 export default themes;

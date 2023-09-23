@@ -54,7 +54,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `alyan` ![alyan][alyan] | `moonlight` ![moonlight][moonlight] | `lamya` ![lamya][lamya] |
 | `purple-gradient` ![purple-gradient][purple-gradient] | `aubergine` ![aubergine][aubergine] | `sin_city` ![sin_city][sin_city] |
 | `space` ![space][space] | `space_light` ![space_light][space_light] | `brown_mountain` ![brown_mountain][brown_mountain] |
-| [Add your theme][add-theme] |
+| `modernize` ![modernize][modernize] | `modernize-dark` ![modernize-dark][modernize-dark] | [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -100,7 +100,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `alyan` ![alyan][alyan_repo] | `moonlight` ![moonlight][moonlight_repo] | `lamya` ![lamya][lamya_repo] |
 | `purple-gradient` ![purple-gradient][purple-gradient_repo] | `aubergine` ![aubergine][aubergine_repo] | `sin_city` ![sin_city][sin_city_repo] |
 | `space` ![space][space_repo] | `space_light` ![space_light][space_light_repo] | `brown_mountain` ![brown_mountain][brown_mountain_repo] |
-| [Add your theme][add-theme] |
+| `modernize` ![modernize][modernize_repo] | `modernize-dark` ![modernize-dark][modernize-dark_repo] | [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -218,6 +218,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [space]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=space
 [space_light]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=space_light
 [brown_mountain]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=brown_mountain
+[modernize]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=modernize
+[modernize-dark]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=modernize-dark
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -335,6 +337,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [space_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=space
 [space_light_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=space_light
 [brown_mountain_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=brown_mountain
+[modernize_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=modernize
+[modernize-dark_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=modernize-dark
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
