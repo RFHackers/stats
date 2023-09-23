@@ -552,7 +552,7 @@ export const themes = {
     text_color: "000000",
     icon_color: "000000",
     border_color: "000000",
-    bg_color: "F7DF1E",
+    bg_color: "FDC830",
   },
   "javascript-dark": {
     title_color: "F7DF1E",
