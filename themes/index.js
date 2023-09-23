@@ -628,6 +628,13 @@ export const themes = {
     border_color: "2F3239",
     bg_color: "152528",
   },
+  iceberg: {
+    title_color: "84A0C6",
+    text_color: "D2D4DE",
+    icon_color: "3987AE",
+    border_color: "33374C",
+    bg_color: "1E2132",
+  },
 };
 
 export default themes;
