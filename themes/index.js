@@ -702,6 +702,20 @@ export const themes = {
     text_color: "5CDD8F",
     bg_color: "50,4A1133,0B1133",
   },
+  aubergine: {
+    title_color: "eeff4a",
+    text_color: "fff",
+    icon_color: "24ecff",
+    border_color: "606060",
+    bg_color: "3,aa076b,61045f",
+  },
+  sin_city: {
+    title_color: "faff25",
+    text_color: "fff",
+    icon_color: "fdc830",
+    border_color: "ff512f",
+    bg_color: "45,ed213a,93291e",
+  },
 };
 
 export default themes;

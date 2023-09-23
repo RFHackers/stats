@@ -52,7 +52,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `garden` ![garden][garden] | `java-dark` ![java-dark][java-dark] | `python-dark` ![python-dark][python-dark] |
 | `neon-palenight` ![neon-palenight][neon-palenight] | `neon-bluerange` ![neon-bluerange][neon-bluerange] | `red_minimal` ![red_minimal][red_minimal] |
 | `alyan` ![alyan][alyan] | `moonlight` ![moonlight][moonlight] | `lamya` ![lamya][lamya] |
-| `purple-gradient` ![purple-gradient][purple-gradient] | [Add your theme][add-theme] |
+| `purple-gradient` ![purple-gradient][purple-gradient] | `aubergine` ![aubergine][aubergine] | `sin_city` ![sin_city][sin_city] |
+| [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -96,7 +97,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `garden` ![garden][garden_repo] | `java-dark` ![java-dark][java-dark_repo] | `python-dark` ![python-dark][python-dark_repo] |
 | `neon-palenight` ![neon-palenight][neon-palenight_repo] | `neon-bluerange` ![neon-bluerange][neon-bluerange_repo] | `red_minimal` ![red_minimal][red_minimal_repo] |
 | `alyan` ![alyan][alyan_repo] | `moonlight` ![moonlight][moonlight_repo] | `lamya` ![lamya][lamya_repo] |
-| `purple-gradient` ![purple-gradient][purple-gradient_repo] | [Add your theme][add-theme] |
+| `purple-gradient` ![purple-gradient][purple-gradient_repo] | `aubergine` ![aubergine][aubergine_repo] | `sin_city` ![sin_city][sin_city_repo] |
+| [Add your theme][add-theme] |
 
 
 [default]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -209,6 +211,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [moonlight]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=moonlight
 [lamya]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=lamya
 [purple-gradient]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=purple-gradient
+[aubergine]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aubergine
+[sin_city]: https://fk-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=sin_city
 
 
 [default_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -321,6 +325,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [moonlight_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=moonlight
 [lamya_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=lamya
 [purple-gradient_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=purple-gradient
+[aubergine_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=aubergine
+[sin_city_repo]: https://fk-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=sin_city
 
 
 [add-theme]: https://github.com/FKTools/stats/edit/master/themes/index.js
